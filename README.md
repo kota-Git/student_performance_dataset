@@ -1,1 +1,1 @@
-# student_performance_dataset
+# Customer shopping data
